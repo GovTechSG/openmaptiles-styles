@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fontnik": "^0.4.8",
+    "spritezero-cli": "^1.2.0"
+  }
+}

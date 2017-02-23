@@ -1,0 +1,6 @@
+version: "2.1"
+services:
+  builder:
+    build: .
+    volumes:
+      - ./target:/usr/src/app/target

@@ -1,0 +1,9 @@
+[submodule "styles/fiord-color-gl-style"]
+	path = styles/fiord-color-gl-style
+	url = https://github.com/openmaptiles/fiord-color-gl-style.git
+[submodule "fonts/Metropolis"]
+	path = fonts/Metropolis
+	url = https://github.com/chrismsimpson/Metropolis.git
+[submodule "fonts/klokantech-gl-fonts"]
+	path = fonts/klokantech-gl-fonts
+	url = https://github.com/klokantech/klokantech-gl-fonts.git
