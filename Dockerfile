@@ -5,7 +5,7 @@ RUN set -x \
     && apt-get update \
     && apt-get install -y curl build-essential \
     && curl -sL https://deb.nodesource.com/setup_6.x | bash - \
-    && apt-get install -y nodejs="${NODE_VERSION}"
+    && apt-get install -y nodejs="${NODE_VERSION}-1nodesource1~xenial1"
 
 ARG YARN_VERSION=0.20.3
 RUN set -ex \
