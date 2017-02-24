@@ -19,3 +19,6 @@
 [submodule "fonts/open-sans"]
 	path = fonts/open-sans
 	url = https://github.com/FontFaceKit/open-sans.git
+[submodule "styles/klokantech-basic-gl-style"]
+	path = styles/klokantech-basic-gl-style
+	url = https://github.com/openmaptiles/klokantech-basic-gl-style.git
