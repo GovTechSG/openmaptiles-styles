@@ -19,5 +19,7 @@ RUN yarn install --frozen-lockfile \
 
 VOLUME ["/usr/src/app/target"]
 
-COPY ./ ./
+COPY fonts ./fonts
+COPY styles ./styles
+COPY *.sh ./
 CMD ["/usr/src/app/build.sh"]

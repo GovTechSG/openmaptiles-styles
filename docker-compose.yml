@@ -4,3 +4,4 @@ services:
     build: .
     volumes:
       - ./target:/usr/src/app/target
+    userns_mode: host
