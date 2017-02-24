@@ -7,6 +7,7 @@ declare -A STYLES=( \
                     ["positron"]="styles/positron-gl-style/icons" \
                     ["dark_matter"]="styles/dark-matter-gl-style/icons" \
                     ["osm_bright"]="styles/osm-bright-gl-style/icons" \
+                    ["osm_liberty"]="styles/osm-liberty/svgs"
                  )
 mkdir -p "${SPRITES_DIR}"
 

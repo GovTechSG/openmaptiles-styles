@@ -31,3 +31,6 @@
 [submodule "styles/toner-gl-style"]
 	path = styles/toner-gl-style
 	url = https://github.com/openmaptiles/toner-gl-style.git
+[submodule "styles/osm-liberty"]
+	path = styles/osm-liberty
+	url = https://github.com/lukasmartinelli/osm-liberty.git

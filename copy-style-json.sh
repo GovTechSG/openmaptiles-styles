@@ -11,6 +11,7 @@ declare -A STYLES=( \
                     ["klokantech_3d"]="styles/klokantech-3d-gl-style/style.json" \
                     ["klokantech_terrain"]="styles/klokantech-terrain-gl-style/style.json" \
                     ["toner"]="styles/toner-gl-style/style.json" \
+                    ["osm_liberty"]="styles/osm-liberty/style.json" \
                  )
 mkdir -p "${STYLES_DIR}"
 
