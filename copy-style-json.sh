@@ -8,6 +8,8 @@ declare -A STYLES=( \
                     ["dark_matter"]="styles/dark-matter-gl-style/style.json" \
                     ["osm_bright"]="styles/osm-bright-gl-style/style.json" \
                     ["klokantech_basic"]="styles/klokantech-basic-gl-style/style.json" \
+                    ["klokantech_3d"]="styles/klokantech-3d-gl-style/style.json" \
+                    ["klokantech_terrain"]="styles/klokantech-terrain-gl-style/style.json" \
                  )
 mkdir -p "${STYLES_DIR}"
 

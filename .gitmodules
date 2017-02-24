@@ -22,3 +22,9 @@
 [submodule "styles/klokantech-basic-gl-style"]
 	path = styles/klokantech-basic-gl-style
 	url = https://github.com/openmaptiles/klokantech-basic-gl-style.git
+[submodule "styles/klokantech-3d-gl-style"]
+	path = styles/klokantech-3d-gl-style
+	url = https://github.com/openmaptiles/klokantech-3d-gl-style.git
+[submodule "styles/klokantech-terrain-gl-style"]
+	path = styles/klokantech-terrain-gl-style
+	url = https://github.com/openmaptiles/klokantech-terrain-gl-style.git
