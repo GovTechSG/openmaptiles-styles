@@ -28,3 +28,6 @@
 [submodule "styles/klokantech-terrain-gl-style"]
 	path = styles/klokantech-terrain-gl-style
 	url = https://github.com/openmaptiles/klokantech-terrain-gl-style.git
+[submodule "styles/toner-gl-style"]
+	path = styles/toner-gl-style
+	url = https://github.com/openmaptiles/toner-gl-style.git
