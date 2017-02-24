@@ -10,6 +10,8 @@ declare -A FONTS=( \
                     ["Open Sans Bold"]="fonts/open-sans/fonts/Bold/OpenSans-Bold.ttf" \
                     ["Open Sans Italic"]="fonts/open-sans/fonts/Italic/OpenSans-Italic.ttf" \
                     ["Open Sans Semibold"]="fonts/open-sans/fonts/Semibold/OpenSans-Semibold.ttf" \
+                    ["Roboto Condensed Italic"]="fonts/google-fonts/fonts/apache/robotocondensed/RobotoCondensed-Italic.ttf" \
+                    ["Roboto Regular"]="fonts/google-fonts/fonts/apache/roboto/Roboto-Regular.ttf" \
                  )
 mkdir -p "${GLYPHS_DIR}"
 

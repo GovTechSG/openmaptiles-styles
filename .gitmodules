@@ -34,3 +34,6 @@
 [submodule "styles/osm-liberty"]
 	path = styles/osm-liberty
 	url = https://github.com/lukasmartinelli/osm-liberty.git
+[submodule "fonts/google-fonts"]
+	path = fonts/google-fonts
+	url = https://github.com/google/fonts.git
