@@ -13,3 +13,9 @@
 [submodule "styles/dark-matter-gl-style"]
 	path = styles/dark-matter-gl-style
 	url = https://github.com/openmaptiles/dark-matter-gl-style.git
+[submodule "styles/osm-bright-gl-style"]
+	path = styles/osm-bright-gl-style
+	url = https://github.com/openmaptiles/osm-bright-gl-style.git
+[submodule "fonts/open-sans"]
+	path = fonts/open-sans
+	url = https://github.com/FontFaceKit/open-sans.git

@@ -6,6 +6,7 @@ declare -A STYLES=( \
                     ["fiord"]="styles/fiord-color-gl-style/style.json" \
                     ["positron"]="styles/positron-gl-style/style.json" \
                     ["dark_matter"]="styles/dark-matter-gl-style/style.json" \
+                    ["osm_bright"]="styles/osm-bright-gl-style/style.json" \
                  )
 mkdir -p "${STYLES_DIR}"
 
