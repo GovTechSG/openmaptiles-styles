@@ -5,6 +5,7 @@ GLYPHS_DIR="target/fonts"
 declare -A FONTS=( \
                     ["Metropolis Light"]="fonts/Metropolis/TrueType/Metropolis-Light.ttf" \
                     ["Metropolis Regular"]="fonts/Metropolis/TrueType/Metropolis-Regular.ttf" \
+                    ["Metropolis Medium Italic"]="fonts/Metropolis/TrueType/Metropolis-MediumItalic.ttf" \
                  )
 mkdir -p "${GLYPHS_DIR}"
 

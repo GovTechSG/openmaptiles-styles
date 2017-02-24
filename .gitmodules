@@ -7,3 +7,6 @@
 [submodule "fonts/klokantech-gl-fonts"]
 	path = fonts/klokantech-gl-fonts
 	url = https://github.com/klokantech/klokantech-gl-fonts.git
+[submodule "styles/positron-gl-style"]
+	path = styles/positron-gl-style
+	url = https://github.com/openmaptiles/positron-gl-style.git

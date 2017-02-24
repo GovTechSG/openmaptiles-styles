@@ -4,6 +4,7 @@ set -xeuo pipefail
 SPRITES_DIR="target/sprites"
 declare -A STYLES=( \
                     ["fiord"]="styles/fiord-color-gl-style/icons" \
+                    ["positron"]="styles/positron-gl-style/icons" \
                  )
 mkdir -p "${SPRITES_DIR}"
 
