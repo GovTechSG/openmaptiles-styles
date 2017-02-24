@@ -5,6 +5,7 @@ SPRITES_DIR="target/sprites"
 declare -A STYLES=( \
                     ["fiord"]="styles/fiord-color-gl-style/icons" \
                     ["positron"]="styles/positron-gl-style/icons" \
+                    ["dark_matter"]="styles/dark-matter-gl-style/icons" \
                  )
 mkdir -p "${SPRITES_DIR}"
 

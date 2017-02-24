@@ -10,3 +10,6 @@
 [submodule "styles/positron-gl-style"]
 	path = styles/positron-gl-style
 	url = https://github.com/openmaptiles/positron-gl-style.git
+[submodule "styles/dark-matter-gl-style"]
+	path = styles/dark-matter-gl-style
+	url = https://github.com/openmaptiles/dark-matter-gl-style.git
